@@ -133,6 +133,6 @@ onMounted(() => {
 
 </script>
 
-<style  src="../css/mian.css" >
+<style  src="../css/main.css" >
 
 </style>
